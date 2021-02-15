@@ -1,2 +1,2 @@
-# Mango
-THROWING ROCKS AT MANGOS >:D
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
